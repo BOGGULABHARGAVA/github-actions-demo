@@ -14,5 +14,5 @@ jobs:
       - name: Checkout Repository  
         uses: actions/checkout@v4  
 
-      - name: Print Email Address  
-        run: echo "This workflow was triggered by 23f2003741@ds.study.iitm.ac.in"
+      - name: 23f2003741@ds.study.iitm.ac.in  
+        run: echo "Hello, world!"
